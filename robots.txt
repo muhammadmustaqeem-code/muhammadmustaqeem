@@ -1,3 +1,5 @@
 User-agent: *
-Disallow:
+Allow: /
+
 Sitemap: https://muhammadmustaqeem-code.github.io/muhammadmustaqeem/sitemap.xml
+User-agent: *
